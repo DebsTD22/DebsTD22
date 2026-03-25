@@ -5,7 +5,7 @@
 
 Sou apaixonada por tecnologia e estou construindo minha jornada na programação através de projetos práticos e aprendizado contínuo. Aqui você vai encontrar aplicações que refletem minha evolução e dedicação em criar interfaces modernas, responsivas e funcionais.
 
-🚀 Atualmente em busca de oportunidades de estágio como desenvolvedora
+🚀 Atualmente em busca de oportunidades como desenvolvedora
 
 ---
 
