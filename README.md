@@ -22,8 +22,8 @@ Node.js <img width="20" heigth="20" src="https://cdn.jsdelivr.net/gh/devicons/de
   HTML <img width="20" heigth="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/> &nbsp; | &nbsp;
   CSS<img width="20" heigth="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/> &nbsp;| &nbsp;
   JavaScript <img width="15" heigth="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> &nbsp; | &nbsp;
-  Python <img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>  &nbsp; | &nbsp;
-  C <img width="15" height="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  Python <img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>  
+ 
           
 
 ---
