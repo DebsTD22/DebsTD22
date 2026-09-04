@@ -1,7 +1,7 @@
 <h1 align="center">Débora Domingueti</h1>
 
 <h3 align="center">
-  Software Engineering Student | Web Developer | Game Development
+  Software Engineering | Web Developer | Game Development
 </h3>
 
 <p align="center">
