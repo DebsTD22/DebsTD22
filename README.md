@@ -1,11 +1,14 @@
-## Olá! Eu sou a Débora 👋
+<h1 align="center">Débora Domingueti</h1>
 
-💻 Estudante de Engenharia de Software  
-🎯 Focada em Desenvolvimento Web (Front-end)  
+<h3 align="center">
+  Software Engineering Student | Web Developer | Game Development
+</h3>
 
-Sou apaixonada por tecnologia e estou construindo minha jornada na programação através de projetos práticos e aprendizado contínuo. Aqui você vai encontrar aplicações que refletem minha evolução e dedicação em criar interfaces modernas, responsivas e funcionais.
-
-🚀 Atualmente em busca de oportunidades como desenvolvedora
+<p align="center">
+          <a href="SEU_LINK_DO_PORTFOLIO">Portfolio</a> •
+          <a href="SEU_LINK_DO_LINKEDIN">LinkedIn</a> • 
+          <a href="SEU_LINK_DO_INSTAGRAM">Instagram</a>
+</p>
 
 ---
 
